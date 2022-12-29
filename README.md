@@ -1,6 +1,6 @@
 # chat_app
 
-A new Flutter project.
+a simple chat app with flutter useing firebase as backend
 
 ## Getting Started
 
